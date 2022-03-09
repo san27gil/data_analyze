@@ -1,2 +1,2 @@
-# data_cleaning
+# data_analyze
 Data cleaning with Python and Pandas.
